@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Galeri - Lingkungpasir</title>
+  <title>Aspirasi - Lingkungpasir</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -51,7 +51,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="../../index.html">
+        <h1 class="text-light"><a href="index.html">
           <img src="../../assets/img/terbaru/logo.svg" alt="" srcset="">
         Lingkungpasir</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
@@ -75,7 +75,7 @@
               </li>
             </ul>
           </li>
-          <li class="dropdown"><a href="#"><span class="active">Informasi Publik</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Informasi Publik</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="../../template/informasi_publik/agenda.html">Agenda Kegiataan</a></li>
               <li><a href="../../template/informasi_publik/galeri.html" >Galeri</a></li>
@@ -88,7 +88,7 @@
           <li><a href="blog.html">Blog</a></li>
           <li><a href="contact.html">Contact</a></li> -->
 
-          <li><a class="" href="../../template/mix/kontak.html">Kontak</a></li>
+          <li><a class="active" href="../../template/mix/kontak.html">Kontak</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -103,87 +103,33 @@
       <div class="breadcrumb-hero">
         <div class="container">
           <div class="breadcrumb-hero">
-            <h2>Galeri</h2>
+            <h2>Aspirasi</h2>
             <!-- <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p> -->
           </div>
         </div>
       </div>
       <div class="container">
         <ol>
-          <!-- <li><a href="index.html">Home</a></li>
-          <li>Portolio</li> -->
+          <!-- <li><a href="index.html">Home</a></li> -->
+          <!-- <li>Contact</li> -->
         </ol>
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
       <div class="container">
-
-        <!-- <div class="row">
-          <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div> -->
-
-        <div class="row portfolio-container" data-aos="fade-up">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="../../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Judul</h4>
-                <div class="portfolio-links">
-                  <a href="../../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="../../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <!-- <p>Web</p> -->
-                <div class="portfolio-links">
-                  <a href="../../assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="../../assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <!-- <p>lore</p> -->
-                <div class="portfolio-links">
-                  <a href="../../assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-
-       
-
+        <div class="row mt-5 justify-content-center" data-aos="fade-right">
+                <h2> <center>Terima kasih telah mengirimkan aspirasi Anda untuk kemajuan Desa Lingkungpasir ke arah yang lebih baik.</center></h2>
+        </div>
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
 
-
+  
 <!-- ======= Footer ======= -->
 <footer id="footer">
   <div class="footer-top">
@@ -211,13 +157,13 @@
         </div>
         <div class="col-lg-3 col-md-6 footer-contact">
           <h4>Hubungi Kami</h4>
-          <p>
+          <!-- <p>
             Desa Lingkungpasir, <br>
             Kecamatan Cibiuk, <br>
             Kabupaten Garut. <br>
-            <strong>Telepon:</strong> +62 823-1911-1534<br>
-            <strong>Email:</strong> lingkungpasir@gmail.com<br>
-          </p>
+            <strong>Telepon:</strong> +1 5589 55488 55<br>
+            <strong>Email:</strong> info@example.com<br>
+          </p> -->
 
           <div class="social-links">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>

@@ -356,7 +356,8 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top center;
+  /* background: url("../img/hero-bg.jpg") top center; */
+  background: url("../img/terbaru/wallpaperbetter.com_1920x1080.jpg") top center;
   /* background: url("https://www.youtube.com/watch?v=V8JrRlZ8_0E&ab_channel=stifonn.") top center; */
   background-size: cover;
   position: relative;
